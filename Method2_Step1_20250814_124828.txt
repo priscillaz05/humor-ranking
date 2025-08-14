@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "CAPTION": "Told boss I quit, still showed up.",
+    "SCORE": 75
+  },
+  {
+    "CAPTION": "Adulting: when nap time becomes a luxury.",
+    "SCORE": 80
+  },
+  {
+    "CAPTION": "Too nerdy? I call it 'future billionaire.'",
+    "SCORE": 70
+  },
+  {
+    "CAPTION": "Wallet so empty, even moths left.",
+    "SCORE": 85
+  },
+  {
+    "CAPTION": "Posers be like, 'I totally read Dostoevsky.'",
+    "SCORE": 78
+  },
+  {
+    "CAPTION": "Swipe right: dating app or credit card?",
+    "SCORE": 90
+  },
+  {
+    "CAPTION": "Capitalism: where happiness is on layaway.",
+    "SCORE": 82
+  },
+  {
+    "CAPTION": "Running a marathon? Nah, racing to last slice.",
+    "SCORE": 88
+  },
+  {
+    "CAPTION": "Adulting: when bedtime is a social event.",
+    "SCORE": 72
+  },
+  {
+    "CAPTION": "Being broke: ramen is the new caviar.",
+    "SCORE": 83
+  }
+]
+```
