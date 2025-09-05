@@ -1,0 +1,12 @@
+```json
+{
+  "people": [
+    {
+      "name": "Polite Cat",
+      "category": "cartoon",
+      "confidence": 90,
+      "description": "The real cat known as 'Polite Cat' or 'Blinky,' famous for its wide-eyed, slightly smiling expression which became a popular internet meme character."
+    }
+  ]
+}
+```
